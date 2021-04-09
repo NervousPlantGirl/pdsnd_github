@@ -1,17 +1,38 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+April 9th, 2021
 
-### Date created
-Include the date you created this project and README file.
+### Udacity - Learn Python - Project 3
+Basic Data Exploration on Bikeshare Data
 
-### Project Title
-Replace the Project Title
+### Project Description
+While working on the Udacity Python foundation course in Project 3, they require that I make sense of the bike sharing data provided and then post my work on GitHub
 
-### Description
-Describe what your project is about and what it does
+### Program Description
+The program takes user input for the city, month, and day for which the user wants to view data.
+Upon receiving the user input, the program will ask and answer the following details:
+- Most popular times of travel
+- Most common month for travel
+- Most common day of week for travel
+- Most common hour for travel
+- Most popular stations and trips
+- Most common start station
+- Most common end station
+- Most common trip from start to end
+- Total travel time
+- Average travel time
+- Number of users by gender
+- Most common birth year
+- The oldest user
+- The youngest user
+- Raw data
 
-### Files used
-Include the files used
+Finally, the user is prompted with the choice of restarting the program or not.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Project Data
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+* Git Commands Documentation
 
+### Acknowledgements
+I often consulted with the questions being asked on the knowledge board.
+Then referred to youtube videos to understand prompts given in the assignment.
